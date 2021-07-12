@@ -1,4 +1,6 @@
 # testes
-Repositório para subir automações de processos seletivos
+Repositório automação Herokuapp
 
-Classe Executa para testar individualmente as Tags
+Parte do teste automação combatista
+Classe Executa para testar individualmente as Tags @tagdesejada
+
